@@ -48,4 +48,3 @@ void insertion_sort_list(listint_t **list)
 		node = next;
 		i++;
 	}
-}
